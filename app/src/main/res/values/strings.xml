@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WSB_51033_PROJECT</string>
+
+    <string name="loginButtonText">Zaloguj się</string>
+    <string name="registerButtonText">Zarejestruj się</string>
+
+    <string name="welcome">Cześć!</string>
+    <string name="greeting">Miło Cię znowu widzieć!</string>
+
+    <string name="RegisterQuestion">Nie masz jeszcze konta?</string>
+    <string name="LoginQuestion">Masz już konto?</string>
+
+    <string name="registrationTitle">Stwórz nowe konto!</string>
+    <string name="loginTitle">Zaloguj się!</string>
+
+</resources>
